@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1486641037 source:c:\users\damir\desktop\windows programiranje\projekti\igrica\main.cpp
+	<tchar.h>
+	<vector>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"GameBall.hpp"
+	"Circle.hpp"
+	"Triangle.hpp"
+	"Square.hpp"
+	"ColorSwitch.hpp"
+	"Switcher.hpp"
+	"resource.h"
+	<string>
+
+1486566210 c:\users\damir\desktop\windows programiranje\projekti\igrica\gameball.hpp
+
+1486566130 c:\users\damir\desktop\windows programiranje\projekti\igrica\circle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486566147 c:\users\damir\desktop\windows programiranje\projekti\igrica\gameobject.hpp
+
+1486566188 c:\users\damir\desktop\windows programiranje\projekti\igrica\colorswitch.hpp
+
+1486566101 c:\users\damir\desktop\windows programiranje\projekti\igrica\triangle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486566079 c:\users\damir\desktop\windows programiranje\projekti\igrica\square.hpp
+	"GameObject.hpp"
+
+1486566166 c:\users\damir\desktop\windows programiranje\projekti\igrica\switcher.hpp
+	"ColorSwitch.hpp"
+
+1486636569 c:\users\damir\desktop\windows programiranje\projekti\igrica\resource.h
+
+1486636569 source:c:\users\damir\desktop\windows programiranje\projekti\igrica\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1486636569 source:c:\users\azra\downloads\igrica\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1486636569 c:\users\azra\downloads\igrica\resource.h
+
+1486647037 source:c:\users\azra\downloads\igrica\main.cpp
+	<tchar.h>
+	<vector>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"GameBall.hpp"
+	"Circle.hpp"
+	"Triangle.hpp"
+	"Square.hpp"
+	"ColorSwitch.hpp"
+	"Switcher.hpp"
+	"resource.h"
+	<string>
+
+1486566210 c:\users\azra\downloads\igrica\gameball.hpp
+
+1486566130 c:\users\azra\downloads\igrica\circle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486566147 c:\users\azra\downloads\igrica\gameobject.hpp
+
+1486566188 c:\users\azra\downloads\igrica\colorswitch.hpp
+
+1486566101 c:\users\azra\downloads\igrica\triangle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486566079 c:\users\azra\downloads\igrica\square.hpp
+	"GameObject.hpp"
+
+1486646362 c:\users\azra\downloads\igrica\switcher.hpp
+	"ColorSwitch.hpp"
+
+1486828109 source:c:\users\damir\desktop\igrica\igrica\main.cpp
+	<tchar.h>
+	<vector>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"GameBall.hpp"
+	"Circle.hpp"
+	"Triangle.hpp"
+	"Square.hpp"
+	"ColorSwitch.hpp"
+	"Switcher.hpp"
+	"Star.hpp"
+	"resource.h"
+	<string>
+
+1486645770 c:\users\damir\desktop\igrica\igrica\gameball.hpp
+
+1486645645 c:\users\damir\desktop\igrica\igrica\circle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486566147 c:\users\damir\desktop\igrica\igrica\gameobject.hpp
+
+1486566188 c:\users\damir\desktop\igrica\igrica\colorswitch.hpp
+
+1486645374 c:\users\damir\desktop\igrica\igrica\triangle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486645187 c:\users\damir\desktop\igrica\igrica\square.hpp
+	"GameObject.hpp"
+
+1486805895 c:\users\damir\desktop\igrica\igrica\switcher.hpp
+	"ColorSwitch.hpp"
+
+1486816195 c:\users\damir\desktop\igrica\igrica\resource.h
+
+1486813506 source:c:\users\damir\desktop\igrica\igrica\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1486826004 c:\users\damir\desktop\igrica\igrica\star.hpp
+
+1486914296 source:c:\users\azra\desktop\projekat\igrica\main.cpp
+	<tchar.h>
+	<vector>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"GameBall.hpp"
+	"Circle.hpp"
+	"Triangle.hpp"
+	"Square.hpp"
+	"ColorSwitch.hpp"
+	"Switcher.hpp"
+	"Star.hpp"
+	"resource.h"
+	<string>
+
+1486645770 c:\users\azra\desktop\projekat\igrica\gameball.hpp
+
+1486903800 c:\users\azra\desktop\projekat\igrica\circle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486566147 c:\users\azra\desktop\projekat\igrica\gameobject.hpp
+
+1486566188 c:\users\azra\desktop\projekat\igrica\colorswitch.hpp
+
+1486899614 c:\users\azra\desktop\projekat\igrica\triangle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486899714 c:\users\azra\desktop\projekat\igrica\square.hpp
+	"GameObject.hpp"
+
+1486903986 c:\users\azra\desktop\projekat\igrica\switcher.hpp
+	"ColorSwitch.hpp"
+
+1486903906 c:\users\azra\desktop\projekat\igrica\star.hpp
+
+1486816195 c:\users\azra\desktop\projekat\igrica\resource.h
+
+1486813506 source:c:\users\azra\desktop\projekat\igrica\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1486977030 source:c:\users\damir\desktop\igrica (1)\igrica\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1486977030 c:\users\damir\desktop\igrica (1)\igrica\resource.h
+
+1486986750 source:c:\users\damir\desktop\igrica (1)\igrica\main.cpp
+	<tchar.h>
+	<vector>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"GameBall.hpp"
+	"Circle.hpp"
+	"Triangle.hpp"
+	"Square.hpp"
+	"ColorSwitch.hpp"
+	"Switcher.hpp"
+	"Star.hpp"
+	"resource.h"
+	<string>
+	"sqlite3.h"
+
+1486922062 c:\users\damir\desktop\igrica (1)\igrica\gameball.hpp
+
+1486921437 c:\users\damir\desktop\igrica (1)\igrica\circle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486921418 c:\users\damir\desktop\igrica (1)\igrica\gameobject.hpp
+
+1486566188 c:\users\damir\desktop\igrica (1)\igrica\colorswitch.hpp
+
+1486979918 c:\users\damir\desktop\igrica (1)\igrica\triangle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486925211 c:\users\damir\desktop\igrica (1)\igrica\square.hpp
+	"GameObject.hpp"
+
+1486922550 c:\users\damir\desktop\igrica (1)\igrica\switcher.hpp
+	"ColorSwitch.hpp"
+
+1486932671 c:\users\damir\desktop\igrica (1)\igrica\star.hpp
+
+1483743134 c:\users\damir\desktop\igrica (1)\igrica\sqlite3.h
+	<stdarg.h>
+
+1483743134 source:c:\users\damir\desktop\igrica (1)\igrica\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<ctype.h>
+	<math.h>
+

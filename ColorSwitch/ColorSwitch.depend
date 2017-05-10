@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1486986750 source:c:\users\damir\desktop\igrica (1)\colorswitch\main.cpp
+	<tchar.h>
+	<vector>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"GameBall.hpp"
+	"Circle.hpp"
+	"Triangle.hpp"
+	"Square.hpp"
+	"ColorSwitch.hpp"
+	"Switcher.hpp"
+	"Star.hpp"
+	"resource.h"
+	<string>
+	"sqlite3.h"
+
+1486922062 c:\users\damir\desktop\igrica (1)\colorswitch\gameball.hpp
+
+1486921437 c:\users\damir\desktop\igrica (1)\colorswitch\circle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486921418 c:\users\damir\desktop\igrica (1)\colorswitch\gameobject.hpp
+
+1486566188 c:\users\damir\desktop\igrica (1)\colorswitch\colorswitch.hpp
+
+1486979918 c:\users\damir\desktop\igrica (1)\colorswitch\triangle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486925211 c:\users\damir\desktop\igrica (1)\colorswitch\square.hpp
+	"GameObject.hpp"
+
+1486922550 c:\users\damir\desktop\igrica (1)\colorswitch\switcher.hpp
+	"ColorSwitch.hpp"
+
+1486932671 c:\users\damir\desktop\igrica (1)\colorswitch\star.hpp
+
+1486977030 c:\users\damir\desktop\igrica (1)\colorswitch\resource.h
+
+1483743134 c:\users\damir\desktop\igrica (1)\colorswitch\sqlite3.h
+	<stdarg.h>
+
+1486977030 source:c:\users\damir\desktop\igrica (1)\colorswitch\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1483743134 source:c:\users\damir\desktop\igrica (1)\colorswitch\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<ctype.h>
+	<math.h>
+
+1487332215 source:c:\users\damir\desktop\colorswitch\colorswitch\main.cpp
+	<tchar.h>
+	<vector>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	"GameBall.hpp"
+	"Circle.hpp"
+	"Triangle.hpp"
+	"Square.hpp"
+	"ColorSwitch.hpp"
+	"Switcher.hpp"
+	"Star.hpp"
+	"resource.h"
+	<string>
+	"sqlite3.h"
+
+1486922062 c:\users\damir\desktop\colorswitch\colorswitch\gameball.hpp
+
+1486921437 c:\users\damir\desktop\colorswitch\colorswitch\circle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486921418 c:\users\damir\desktop\colorswitch\colorswitch\gameobject.hpp
+
+1486566188 c:\users\damir\desktop\colorswitch\colorswitch\colorswitch.hpp
+
+1486979918 c:\users\damir\desktop\colorswitch\colorswitch\triangle.hpp
+	"GameObject.hpp"
+	"ColorSwitch.hpp"
+
+1486925211 c:\users\damir\desktop\colorswitch\colorswitch\square.hpp
+	"GameObject.hpp"
+
+1486922550 c:\users\damir\desktop\colorswitch\colorswitch\switcher.hpp
+	"ColorSwitch.hpp"
+
+1486932671 c:\users\damir\desktop\colorswitch\colorswitch\star.hpp
+
+1486977030 c:\users\damir\desktop\colorswitch\colorswitch\resource.h
+
+1483743134 c:\users\damir\desktop\colorswitch\colorswitch\sqlite3.h
+	<stdarg.h>
+
+1486977030 source:c:\users\damir\desktop\colorswitch\colorswitch\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1483743134 source:c:\users\damir\desktop\colorswitch\colorswitch\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<ctype.h>
+	<math.h>
+

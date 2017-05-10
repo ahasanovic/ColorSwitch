@@ -1,0 +1,40 @@
+#ifndef IDC_STATIC
+#define IDC_STATIC (-1)
+#endif
+
+#define DLG_MAIN                                100
+#define IDR_MENU1                               101
+#define IDD_DIALOG1                             102
+#define IDD_DIALOG2                             103
+#define Level                                   1001
+#define rank1                                   1001
+#define rank2                                   1016
+#define IDC_EDIT1                               1026
+#define IDM_NEW_GAME1                           40000
+#define IDM_EXIT1                               40001
+#define IDM_SCORE1                              40002
+#define green                                   40011
+#define purple                                  40012
+#define yellow                                  40013
+#define orange                                  40014
+#define cyan                                    40015
+#define magenta                                 40016
+#define white                                   40017
+#define pink                                    40018
+#define blue                                    40020
+#define brown                                   40021
+#define red                                     40022
+#define grey                                    40023
+#define rank3                                   40023
+#define rank4                                   40024
+#define rank5                                   40025
+#define name1                                   40026
+#define name2                                   40027
+#define name3                                   40028
+#define name4                                   40029
+#define name5                                   40030
+#define score1                                  40031
+#define score2                                  40032
+#define score3                                  40033
+#define score4                                  40034
+#define score5                                  40035
